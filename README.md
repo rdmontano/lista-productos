@@ -1,4 +1,4 @@
-Lista Dinámica de Productos
+#Lista Dinámica de Productos
 Descripción
 Página sencilla en JavaScript que muestra una lista dinámica de productos usando plantillas HTML básicas y manipulación del DOM.
 
